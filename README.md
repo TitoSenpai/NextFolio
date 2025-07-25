@@ -2,6 +2,10 @@
 
 A modern Next.js portfolio website with dashboard functionality.
 
+<img width="1883" height="913" alt="NextFolio Landing Page" src="https://github.com/user-attachments/assets/df41dc15-e2b8-4591-82cc-db177cce7a36" />
+<img width="1887" height="911" alt="NextFolio Dashboard" src="https://github.com/user-attachments/assets/5fb4d34e-3faf-4fe7-be3b-5dd81d1cefdb" />
+
+
 ## Features
 
 - 🎨 Modern, responsive design
